@@ -18,7 +18,7 @@ You can add the following commands to the **end of the description**:
 | Tags | `\tags` | `\tag`, `\t` | `\tags foo bar baz` |
 | Subtask | `\sub` | `\st`, `\s` | `\sub This is the title` |
 | Priority | `\prio` | `\p` | `\prio 3` |
-| Color | `\color` | `\col`, `\color` | `\color <color_id>` |
+| Color | `\color` | `\col`, `\c` | `\color <color_id>` |
 
 Possible `<timestamp>`s are:
 
